@@ -1,0 +1,29 @@
+<table class="table table-striped table-bordered table-hover"  id="example-table" cellspacing="0" width="100% auto">
+        <thead>
+            <tr>
+                <th>User Name</th>
+                <th>First Name</th>
+                <th>Last name</th>
+                <th>Email Id</th>
+                <th>Password</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+            <tbody *ngFor="let userD of userData">
+
+                    <tr>
+                            <td> {{ userD.userName }} </td>
+                            <td> {{ userD.firstName }}</td>
+                            <td>{{ userD.lastName }} </td> 
+                            <td>{{ userD.email }} </td>
+                            <td>{{ userD.password }} </td>
+                           <td>
+                            <button type="button" value="edit"><a [routerLink]="['/edit-Course', userD.id]">edit</a></button>
+                            <button type="button" value="delete" ><a (click)="onDelete(userD.id)" style="color:lightseagreen" >delete</a> </button> 
+
+                                    
+                           </td>
+                        </tr>
+
+    </tbody>
+    </table>

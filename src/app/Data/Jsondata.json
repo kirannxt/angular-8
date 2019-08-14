@@ -1,0 +1,2015 @@
+{
+  "StaffAnnouncement": [
+    {
+      "subject": "Exam new",
+      "announcementUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "description": "Exams New",
+      "fileComment": "Exams Comments",
+      "courseCode": "123",
+      "LatestUpdate": "2019-07-15T10:51:59.678Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "subject": "Exam",
+      "announcementUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "description": "",
+      "addAttachment": "",
+      "fileComment": "",
+      "courseCode": "j123",
+      "LatestUpdate": "2019-07-15T09:23:54.511Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "announcementData": [
+    {
+      "subject": "Exam",
+      "announcementUsers": [
+        [
+          "users2"
+        ]
+      ],
+      "description": "Lab",
+      "addAttachment": "C:\\fakepath\\Assessment Model.txt",
+      "fileComment": "Model",
+      "courseCode": "1223",
+      "LatestUpdate": "2019-07-08T10:59:13.920Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "subject": "Announcements-01",
+      "announcementUsers": [
+        [
+          "users2"
+        ]
+      ],
+      "description": "Announcements Description",
+      "addAttachment": "C:\\fakepath\\Assessment Model.txt",
+      "fileComment": "Model",
+      "courseCode": "1223",
+      "LatestUpdate": "2019-07-08T11:02:12.824Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "subject": "Exam123",
+      "announcementUsers": [
+        [
+          "users2"
+        ]
+      ],
+      "description": "dsgr",
+      "addAttachment": "C:\\fakepath\\123456.txt",
+      "fileComment": "dgdf",
+      "courseCode": "a123",
+      "LatestUpdate": "2019-07-09T05:40:43.638Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "subject": "Exam",
+      "announcementUsers": [
+        [
+          "users2"
+        ]
+      ],
+      "description": "",
+      "addAttachment": "C:\\fakepath\\123456.txt",
+      "fileComment": "",
+      "courseCode": "a123",
+      "LatestUpdate": "2019-07-09T08:49:14.924Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "subject": "Exam963258",
+      "announcementUsers": [],
+      "description": "",
+      "addAttachment": "C:\\fakepath\\Assessment Model.txt",
+      "fileComment": "",
+      "courseCode": "a123",
+      "LatestUpdate": 1562662905332,
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    },
+    {
+      "subject": "Exam963258",
+      "announcementUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "description": "Announcement01",
+      "addAttachment": "C:\\fakepath\\123456.txt",
+      "fileComment": "Text",
+      "courseCode": "14785",
+      "LatestUpdate": "2019-07-09T10:55:47.451Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 6
+    },
+    {
+      "subject": "Exam",
+      "announcementUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "description": "Exam",
+      "addAttachment": "",
+      "fileComment": "",
+      "courseCode": "CS100",
+      "LatestUpdate": "2019-07-24T10:55:26.998Z",
+      "createBy": "value.createdBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 7
+    }
+  ],
+  "staffAssignment": [
+    {
+      "assignmentName": "Python",
+      "assignmentDescription": "Python Assignments",
+      "assignmentMaxScore": "80",
+      "assessmentName": "Python",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "assignmentName": "ASp",
+      "assignmentDescription": "ASP Assignments ",
+      "assignmentMaxScore": "85",
+      "assessmentName": "Visual-Basic",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "j123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "assignmentName": "ASP",
+      "assignmentDescription": "ASP Assignment",
+      "assignmentMaxScore": "80",
+      "assessmentName": "Asp-Net",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    }
+  ],
+  "staffAssessments": [
+    {
+      "assessmentName": "java",
+      "assessmentTotalWeight": "50",
+      "assessmentDescription": "Java Assessments",
+      "courseCode": "j123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "assessmentName": "Python",
+      "assessmentTotalWeight": "35",
+      "assessmentDescription": "Python Assessments",
+      "courseCode": "123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "assessmentName": "Asp-Net",
+      "assessmentTotalWeight": "50",
+      "assessmentDescription": "Asp Dot Net Assessment",
+      "courseCode": "123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "assessmentName": "Visual-Basic",
+      "assessmentTotalWeight": "50",
+      "assessmentDescription": "Visual Basci(VB) Assessments",
+      "courseCode": "j123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "staffSurvey": [
+    {
+      "surveyCode": "S01",
+      "surveyTitle": "Java",
+      "surveyDescription": "Java Survey",
+      "surveyStartDate": "2019-07-11",
+      "surveyEndDate": "2019-07-20",
+      "courseCode": "123",
+      "surveyUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "surveyCode": "S02",
+      "surveyTitle": "Testing",
+      "surveyDescription": "Testing Survey",
+      "surveyStartDate": "2019-07-12",
+      "surveyEndDate": "2019-07-26",
+      "courseCode": "123",
+      "surveyUsers": [],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "staffSurveyQuestions": [
+    {
+      "surveyCode": "S01",
+      "surveyQuestionTitle": "WAN is Wide Area Network?",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "Yes",
+      "surveyAnswerOption2": "No",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "surveyCode": "S02",
+      "surveyQuestionTitle": "Lan is Local Area Network",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "No",
+      "surveyAnswerOption2": "Yes",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "surveyCode": "S01",
+      "surveyQuestionTitle": "Describe Wan?",
+      "surveyQuestionType": "Open(Text Box)",
+      "surveyQuestionOption": "0",
+      "surveyAnswerOption1": "",
+      "surveyAnswerOption2": "",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    }
+  ],
+  "studentAssignmentData": [],
+  "assignmentData": [
+    {
+      "assignmentName": "java",
+      "assignmentDescription": "Java Assignment",
+      "assignmentMaxScore": "90",
+      "assessmentName": "java",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "1223",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "assignmentName": "ASp",
+      "assignmentDescription": "ASP Programming Language",
+      "assignmentMaxScore": "85",
+      "assessmentName": "Asp-Net",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "a123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "assignmentName": "VB",
+      "assignmentDescription": "VB Programming Language",
+      "assignmentMaxScore": "85",
+      "assessmentName": "Asp-Net",
+      "assignmentWeightInsideAssess": "65",
+      "courseCode": "a123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "assignmentName": "java",
+      "assignmentDescription": "Java Assignment",
+      "assignmentMaxScore": "85",
+      "assessmentName": "java",
+      "assignmentWeightInsideAssess": "80",
+      "courseCode": "CS100",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "assessmentData": [
+    {
+      "assessmentName": "java",
+      "assessmentTotalWeight": "25",
+      "assessmentDescription": "Java Programming",
+      "courseCode": "1223",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "assessmentName": "Python",
+      "assessmentTotalWeight": "50",
+      "assessmentDescription": "Python Programming ",
+      "courseCode": "1223",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "assessmentName": "Asp-Net",
+      "assessmentTotalWeight": "65",
+      "assessmentDescription": "Asp Dot Net Programming ",
+      "courseCode": "a123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "assessmentName": "java",
+      "assessmentTotalWeight": "50",
+      "assessmentDescription": "Java Assessments",
+      "courseCode": "CS100",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.ModifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    }
+  ],
+  "surveyQuestionData": [
+    {
+      "surveyCode": "00012",
+      "surveyQuestionTitle": "Lan is Local Area Network",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "YES",
+      "surveyAnswerOption2": "NO",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "surveyCode": "s-01",
+      "surveyQuestionTitle": "give feedback",
+      "surveyQuestionType": "Open(Text Box)",
+      "surveyQuestionOption": "0",
+      "surveyAnswerOption1": "",
+      "surveyAnswerOption2": "",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "surveyCode": "012",
+      "surveyQuestionTitle": "WAN is Wide Area Network",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "No",
+      "surveyAnswerOption2": "Yes",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "surveyCode": "012",
+      "surveyQuestionTitle": "What is WAN ?",
+      "surveyQuestionType": "Open(Text Box)",
+      "surveyQuestionOption": "0",
+      "surveyAnswerOption1": "",
+      "surveyAnswerOption2": "",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "surveyCode": "0011",
+      "surveyQuestionTitle": "Lan is Local Area Network",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "No",
+      "surveyAnswerOption2": "Yes",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    },
+    {
+      "surveyCode": "0011",
+      "surveyQuestionTitle": "What is Lan ?",
+      "surveyQuestionType": "Open(Text Box)",
+      "surveyQuestionOption": "0",
+      "surveyAnswerOption1": "",
+      "surveyAnswerOption2": "",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 6
+    },
+    {
+      "surveyCode": "S1",
+      "surveyQuestionTitle": "IT Was Helpfull",
+      "surveyQuestionType": "Yes/No",
+      "surveyQuestionOption": "2",
+      "surveyAnswerOption1": "Yes",
+      "surveyAnswerOption2": "No",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 7
+    },
+    {
+      "surveyCode": "S1",
+      "surveyQuestionTitle": "How Was Your Experiences ",
+      "surveyQuestionType": "Open(Text Box)",
+      "surveyQuestionOption": "0",
+      "surveyAnswerOption1": "",
+      "surveyAnswerOption2": "",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 8
+    }
+  ],
+  "surveyData": [
+    {
+      "surveyCode": "002",
+      "surveyTitle": "Demo abc",
+      "surveyDescription": "Testing",
+      "surveyStartDate": "2019-05-30",
+      "surveyEndDate": "2019-06-16",
+      "courseCode": "a123",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "surveyCode": "0011",
+      "surveyTitle": "Demo-Dotnet",
+      "surveyDescription": "Testing dotnet",
+      "surveyStartDate": "2019-07-06",
+      "surveyEndDate": "2019-07-26",
+      "courseCode": "1223",
+      "surveyUsers": [
+        [
+          "users1"
+        ]
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "surveyCode": "S1",
+      "surveyTitle": "Feedback",
+      "surveyDescription": "FeedBack",
+      "surveyStartDate": "2019-07-01",
+      "surveyEndDate": "2019-07-30",
+      "courseCode": "CS100",
+      "surveyUsers": [],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "staffQuizQuestionData": [
+    {
+      "quizQuestion": "cACacas",
+      "quizAnswer1": "ascascsacs",
+      "quizAnswer2": "acsasacascsa",
+      "quizAnswer3": "csacascs",
+      "quizAnswer4": "acascasas",
+      "correctAnswers": "acsasacascsa",
+      "answerScores": "6",
+      "quizId": "1",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "quizQuestion": "What is Lan?",
+      "quizAnswer1": "Local Area Network",
+      "quizAnswer2": "Metro Area Network",
+      "quizAnswer3": "Wide Area Network",
+      "quizAnswer4": "All OF above",
+      "correctAnswers": "Local Area Network",
+      "answerScores": "5",
+      "quizId": "3",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "staffQuizData": [
+    {
+      "quizName": "Staff-Java",
+      "quizDescription": "Java Description",
+      "quizStartDate": "",
+      "quizEndDate": "",
+      "courseCode": "j123",
+      "questions": 1,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "quizName": "Cloud",
+      "quizDescription": "cloud computing",
+      "quizStartDate": "2019-07-03T12:20",
+      "quizEndDate": "2019-07-03T18:20",
+      "courseCode": "123",
+      "questions": 0,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "quizName": "Networking",
+      "quizDescription": "Networking des",
+      "quizStartDate": "2019-06-02T12:12",
+      "quizEndDate": "2019-06-28T12:22",
+      "courseCode": "123",
+      "questions": 0,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "quizName": "Staff-networking",
+      "quizDescription": "Networking des",
+      "quizStartDate": "2019-06-27T12:12",
+      "quizEndDate": "2019-06-30T12:12",
+      "courseCode": "j123",
+      "questions": 0,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "quizQuestionData": [
+    {
+      "quizQuestion": "what is Java?",
+      "quizAnswer1": "Programming Language",
+      "quizAnswer2": "Scripting Language",
+      "quizAnswer3": "Software",
+      "quizAnswer4": "Framework",
+      "correctAnswers": "Programming Language",
+      "answerScores": "10",
+      "quizId": "2",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "quizQuestion": "what is javaScript?",
+      "quizAnswer1": "software",
+      "quizAnswer2": "scripting language",
+      "quizAnswer3": "programming language",
+      "quizAnswer4": "framework",
+      "correctAnswers": "scripting language",
+      "answerScores": "10",
+      "quizId": "2",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "quizQuestion": "what is c ?",
+      "quizAnswer1": "Programming language",
+      "quizAnswer2": "Software",
+      "quizAnswer3": "Framework",
+      "quizAnswer4": "Developing",
+      "correctAnswers": "Programming language",
+      "answerScores": "10",
+      "quizId": "2",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "quizQuestion": "What is VB?",
+      "quizAnswer1": "Visual",
+      "quizAnswer2": "Visual Studio",
+      "quizAnswer3": "Visual Basic",
+      "quizAnswer4": "Visual C#",
+      "correctAnswers": "Visual Basic",
+      "answerScores": "10",
+      "quizId": "2",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "quizQuestion": "What is Drive HQ",
+      "quizAnswer1": "Cloud Storage",
+      "quizAnswer2": "HDD",
+      "quizAnswer3": "SDD",
+      "quizAnswer4": "CD",
+      "correctAnswers": "Cloud Storage",
+      "answerScores": "10",
+      "quizId": "1",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    },
+    {
+      "quizQuestion": "what is vb",
+      "quizAnswer1": "visual ",
+      "quizAnswer2": "visual c #",
+      "quizAnswer3": "visual basic",
+      "quizAnswer4": "visual studio",
+      "correctAnswers": "visual basic",
+      "answerScores": "10",
+      "quizId": "3",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 6
+    },
+    {
+      "quizQuestion": "cxsawvwevw",
+      "quizAnswer1": "",
+      "quizAnswer2": "",
+      "quizAnswer3": "",
+      "quizAnswer4": "",
+      "correctAnswers": "",
+      "quizId": "5",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 7
+    },
+    {
+      "quizQuestion": "What is the size of int variable?",
+      "quizAnswer1": "8 Bit",
+      "quizAnswer2": "16 Bit",
+      "quizAnswer3": "32 Bit",
+      "quizAnswer4": "64 Bit",
+      "correctAnswers": "32 Bit",
+      "answerScores": "10",
+      "quizId": "7",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 8
+    }
+  ],
+  "quizData": [
+    {
+      "quizName": "cloud",
+      "quizDescription": "cloud computing",
+      "quizStartDate": "2019-06-02T12:12",
+      "quizEndDate": "2019-06-27T12:12",
+      "courseCode": "1223",
+      "questions": 1,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "quizName": "network",
+      "quizDescription": "Networking des",
+      "quizStartDate": "2019-06-18T12:12",
+      "quizEndDate": "2019-06-20T14:23",
+      "courseCode": "a123",
+      "questions": 2,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "quizName": "network",
+      "quizDescription": "Networking des",
+      "quizStartDate": "",
+      "quizEndDate": "",
+      "courseCode": "14785",
+      "questions": 0,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "quizName": "cloud-comp",
+      "quizDescription": "Networking des",
+      "quizStartDate": "",
+      "quizEndDate": "",
+      "courseCode": "104",
+      "questions": 0,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "questions": null,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    },
+    {
+      "quizName": "cloud-comp",
+      "quizDescription": "Networking des",
+      "quizStartDate": "",
+      "quizEndDate": "",
+      "courseCode": "100",
+      "questions": 1,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 6
+    },
+    {
+      "quizName": "Java",
+      "quizDescription": "Java Programming",
+      "quizStartDate": "2019-07-05T10:30",
+      "quizEndDate": "2019-07-05T18:30",
+      "courseCode": "CS100",
+      "questions": 1,
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 7
+    }
+  ],
+  "StudentCatlog": [
+    {
+      "code": "CS102",
+      "name": "python",
+      "description": "Python Programming Language",
+      "major": "Discipline 2",
+      "deliveryMethod": "eLearning",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "python"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    }
+  ],
+  "staffcoursedata": [
+    {
+      "organizations": [
+        {
+          "orgName": "Minds Nxt"
+        }
+      ],
+      "code": "123",
+      "name": "dotNet",
+      "tuition": "10",
+      "description": "C# Dot Net",
+      "targetedLearners": "Programmers",
+      "duration": "52",
+      "major": "Discipline-1",
+      "deliveryMethod": "eLearning",
+      "approvalRequired": "Yes",
+      "canRelaunch": "Yes",
+      "contentType": "Resource",
+      "selfCertifiedCompletion": "Yes",
+      "courseCompletionCertificate": "Yes",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "Dotnet"
+        }
+      ],
+      "language": "English",
+      "notes": "Requried",
+      "courseDisplayDate": "2019-07-24",
+      "enrollmentOpenDate": "2019-06-06",
+      "enrollmentCloseDate": "2019-06-11",
+      "courseHideDate": "2019-06-21",
+      "certificationCalculationDate": "2019-06-19",
+      "daysStdToCompl": "50",
+      "daysBeforeStdToCompl": "15",
+      "expireDays": "5",
+      "remindStudent": "3",
+      "enrollmentRestriction": "Once only",
+      "accumulateCredit": "Yes",
+      "credit": "564",
+      "instructionalLanguages": "English",
+      "version": "6.0",
+      "allowUseOfInterestLists": "Yes",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "organizations": [
+        {
+          "orgName": "Minds Nxt"
+        }
+      ],
+      "code": "j123",
+      "name": "Java",
+      "tuition": "100",
+      "description": "gbv hg",
+      "targetedLearners": "hjbhb",
+      "duration": "12",
+      "major": "Discipline-2",
+      "deliveryMethod": "eLearning",
+      "approvalRequired": "Yes",
+      "canRelaunch": "no",
+      "contentType": "link",
+      "selfCertifiedCompletion": "Yes",
+      "courseCompletionCertificate": "Yes",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "python"
+        }
+      ],
+      "language": "English",
+      "notes": "requried",
+      "courseDisplayDate": "2019-06-01",
+      "enrollmentOpenDate": "2019-06-09",
+      "enrollmentCloseDate": "2019-06-04",
+      "courseHideDate": "2018-06-29",
+      "certificationCalculationDate": "2019-06-14",
+      "daysStdToCompl": "50",
+      "daysBeforeStdToCompl": "15",
+      "expireDays": "5",
+      "remindStudent": "5",
+      "enrollmentRestriction": "Once only",
+      "accumulateCredit": "Yes",
+      "credit": "564",
+      "instructionalLanguages": "English",
+      "version": "6.0",
+      "allowUseOfInterestLists": "Yes",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "Staffcontentdata": [
+    {
+      "language": "English",
+      "ownerOrganizations": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "name": "Java",
+      "type": "File",
+      "discription": "Java Des",
+      "startDate": "2019-05-10",
+      "endDate": "2019-06-20",
+      "status": "Inactive",
+      "contactName": "abc",
+      "contactNumber": "1211231231233",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "language": "English",
+      "ownerOrganizations": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "name": "Dotnet",
+      "type": "File",
+      "discription": "Dot Net Des",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "status": "Active",
+      "contactName": "abc",
+      "contactNumber": "1211231231233",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "language": "English",
+      "ownerOrganizations": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "name": "python",
+      "type": "Link",
+      "discription": "PYTHON DES",
+      "startDate": "2019-06-08",
+      "endDate": "2019-06-29",
+      "status": "Inactive",
+      "contactName": "abc",
+      "contactNumber": "1211231231233",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    }
+  ],
+  "Staffdisciplinedata": [
+    {
+      "ownerOrganization": [],
+      "code": "D120",
+      "language": "English",
+      "name": "Discipline-1",
+      "description": "Discipline Des 1",
+      "ordinal": 0,
+      "status": "Inactive",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "ownerOrganization": [],
+      "code": "D121",
+      "language": "English",
+      "name": "Discipline-2",
+      "description": "Discipline des 2",
+      "ordinal": 0,
+      "status": "Active",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "Stafftermdata": [
+    {
+      "termName": "term1",
+      "termDescription": "term des 12",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "termName": "term2",
+      "termDescription": "term des 2",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "Staffcategoriesdata": [
+    {
+      "name": "staffcat1",
+      "description": "Staff Category 1",
+      "language": "English",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "lms": "lms23",
+      "isCategorySearchable": "Yes",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "Java"
+        },
+        {
+          "contName": "Dotnet"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "name": "staffcat2",
+      "description": "staffcat2",
+      "language": "English",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "lms": "lms1300",
+      "isCategorySearchable": "Yes",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "python"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "categoriesdata": [
+    {
+      "name": "cat1",
+      "description": "cat1",
+      "language": "English",
+      "startDate": "2019-04-25",
+      "endDate": "2019-05-15",
+      "lms": "lms1",
+      "isCategorySearchable": "Yes",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "Java"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "name": "cat2",
+      "description": "Python category ",
+      "language": "English",
+      "startDate": "2019-04-26",
+      "endDate": "2019-05-28",
+      "lms": "lms2",
+      "isCategorySearchable": "No",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "python"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "name": "cat3",
+      "description": "cat3",
+      "language": "English",
+      "startDate": "2019-04-25",
+      "endDate": "2019-05-27",
+      "lms": "lms3",
+      "isCategorySearchable": "Yes",
+      "status": "Inactive",
+      "content": [
+        {
+          "contName": "Java"
+        },
+        {
+          "contName": "python"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    }
+  ],
+  "fileUpload": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "------WebKitFormBoundarymnKZmwIfqdygH6Ly\r\nContent-Disposition: form-data; name": "\"from\"\r\n\r\nerere\r\n------WebKitFormBoundarymnKZmwIfqdygH6Ly--\r\n",
+      "id": 5
+    },
+    {
+      "------WebKitFormBoundaryBTR0nQ4PxmSOwUym\r\nContent-Disposition: form-data; name": "\"filename\"\r\n\r\nerere\r\n------WebKitFormBoundaryBTR0nQ4PxmSOwUym--\r\n",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ],
+  "contentdata": [
+    {
+      "language": "Chinese - China",
+      "ownerOrganizations": [],
+      "name": "python",
+      "type": "File",
+      "discription": "Learning",
+      "startDate": "2019-04-23",
+      "endDate": "2019-05-15",
+      "status": "Active",
+      "contactName": "abc",
+      "contactNumber": "9856471238",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "language": "English",
+      "ownerOrganizations": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "name": "Java",
+      "type": "Link",
+      "discription": "Java programming",
+      "startDate": "2019-04-25",
+      "endDate": "2019-05-25",
+      "status": "Active",
+      "contactName": "abc",
+      "contactNumber": "9856471238",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    }
+  ],
+  "coursedata": [
+    {
+      "organizations": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "CS100",
+      "name": "Java",
+      "tuition": "0",
+      "description": "Java Programming Language",
+      "targetedLearners": "Computer Science",
+      "duration": "12",
+      "major": "Discipline 1",
+      "deliveryMethod": "eLearning",
+      "approvalRequired": "no",
+      "canRelaunch": "no",
+      "contentType": "link",
+      "selfCertifiedCompletion": "No",
+      "courseCompletionCertificate": "No",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "Java"
+        }
+      ],
+      "language": "English",
+      "notes": "Required",
+      "courseDisplayDate": "2019-07-01",
+      "enrollmentOpenDate": "2019-07-02",
+      "enrollmentCloseDate": "2019-07-30",
+      "courseHideDate": "2019-07-31",
+      "certificationCalculationDate": "2017-07-31",
+      "daysStdToCompl": "28",
+      "daysBeforeStdToCompl": "10",
+      "expireDays": "5",
+      "remindStudent": "5",
+      "enrollmentRestriction": "Once only",
+      "accumulateCredit": "No",
+      "credit": "",
+      "instructionalLanguages": "English",
+      "version": "1.8",
+      "allowUseOfInterestLists": "No",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "organizations": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "CS102",
+      "name": "python",
+      "tuition": "10",
+      "description": "Python Programming Language",
+      "targetedLearners": "Computer Science",
+      "duration": "12",
+      "major": "Discipline 2",
+      "deliveryMethod": "eLearning",
+      "approvalRequired": "no",
+      "canRelaunch": "no",
+      "contentType": "Resource",
+      "selfCertifiedCompletion": "No",
+      "courseCompletionCertificate": "No",
+      "status": "Active",
+      "content": [
+        {
+          "contName": "python"
+        }
+      ],
+      "language": "English",
+      "notes": "Required",
+      "courseDisplayDate": "2019-07-01",
+      "enrollmentOpenDate": "2019-07-02",
+      "enrollmentCloseDate": "2019-07-24",
+      "courseHideDate": "2019-07-30",
+      "certificationCalculationDate": "2019-07-29",
+      "daysStdToCompl": "28",
+      "daysBeforeStdToCompl": "15",
+      "expireDays": "5",
+      "remindStudent": "5",
+      "enrollmentRestriction": "Once only",
+      "accumulateCredit": "No",
+      "credit": "",
+      "instructionalLanguages": "English",
+      "version": "3.2",
+      "allowUseOfInterestLists": "No",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "termdata": [
+    {
+      "termName": "Term1",
+      "termDescription": "Term1 des",
+      "duration": "value.duration",
+      "startDate": "2019-03-26",
+      "endDate": "2019-03-30",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 10
+    },
+    {
+      "termName": "Term2",
+      "termDescription": "Term2 des",
+      "startDate": "2019-03-25",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1009
+    },
+    {
+      "termName": "Term3",
+      "termDescription": "Term3 Description",
+      "duration": "value.duration",
+      "startDate": "2019-03-27",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 88888888888888
+    },
+    {
+      "termName": "Term4",
+      "termDescription": "Terms 4 des",
+      "startDate": "2019-04-10",
+      "endDate": "2019-04-26",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 88888888888889
+    }
+  ],
+  "Disciplinedata": [
+    {
+      "ownerOrganization": [
+        {
+          "orgName": "nxt"
+        },
+        {
+          "orgName": "nxt03"
+        }
+      ],
+      "code": "D-1",
+      "language": "English",
+      "name": "Discipline 1",
+      "description": "Discipline 1 des",
+      "ordinal": "0",
+      "status": "Active",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "ownerOrganization": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "D-2",
+      "language": "English",
+      "name": "Discipline 2",
+      "description": "Discipline 2 des",
+      "ordinal": "1",
+      "status": "Active",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "ownerOrganization": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "code": "D-3",
+      "language": "English",
+      "name": "Discipline 3",
+      "description": "Discipline 3 Des",
+      "ordinal": "2",
+      "status": "Active",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    }
+  ],
+  "InstitutionalRoles": [
+    {
+      "language": "English - Australia",
+      "lms": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "IR1",
+      "name": "admin",
+      "effectiveDate": "2019-03-08",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "language": "English",
+      "lms": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "IR2",
+      "name": "Instructor",
+      "effectiveDate": "2019-03-29",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 34454545
+    },
+    {
+      "language": "English",
+      "lms": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "code": "IR3",
+      "name": "Staff",
+      "effectiveDate": "2019-03-28",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 489565974
+    }
+  ],
+  "SystemRoles": [
+    {
+      "language": "English",
+      "organization": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "roleId": "SR1",
+      "roleName": "Network Engineer",
+      "effectiveDate": "2019-03-25",
+      "endDate": "2019-03-31",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "language": "English",
+      "organization": [
+        {
+          "orgName": "nxt"
+        }
+      ],
+      "roleId": "SR2",
+      "roleName": "programmer",
+      "effectiveDate": "2019-03-27",
+      "endDate": "2019-03-30",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ],
+  "UsersData": [
+    {
+      "userName": "user1",
+      "firstName": "kiran",
+      "lastName": "s",
+      "email": "kiran.nxt19@gmail.com",
+      "language": "English",
+      "organization": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "institutionalRoles": "admin",
+      "systemRoles": "programming",
+      "password": "123",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-30",
+      "voice": "13233",
+      "mobile": "2344212323",
+      "fax": "23213",
+      "affiliation": "12321",
+      "street": "21323",
+      "city": "gulb",
+      "country": "india",
+      "state": "Jammu& Kashmir",
+      "postalCode": "585105",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 12
+    },
+    {
+      "userName": "user2",
+      "firstName": "Ravi",
+      "lastName": "Kumar",
+      "email": "kiran.nxt19@gmail.com",
+      "language": "English",
+      "organization": [
+        {
+          "orgName": "DemoOrg"
+        }
+      ],
+      "institutionalRoles": "admin",
+      "systemRoles": "programming",
+      "password": "1234",
+      "startDate": "2019-06-01",
+      "endDate": "2019-06-08",
+      "voice": "13233",
+      "mobile": "02344212323",
+      "fax": "23213",
+      "affiliation": "12321",
+      "street": "21323",
+      "city": "gulb",
+      "country": "india",
+      "state": "Jammu& Kashmir",
+      "postalCode": "585105",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 13
+    },
+    {
+      "userName": "user3",
+      "firstName": "Raj",
+      "lastName": "Kumar",
+      "email": "kiran.nxt19@gmail.com",
+      "language": "English",
+      "organization": [
+        {
+          "orgName": "nxt08"
+        }
+      ],
+      "institutionalRoles": "admin",
+      "systemRoles": "programming",
+      "password": "Admin",
+      "startDate": "2019-07-05",
+      "endDate": "2019-07-30",
+      "voice": "13233",
+      "mobile": "02344212323",
+      "fax": "23213",
+      "affiliation": "12321",
+      "street": "21323",
+      "city": "gulb",
+      "country": "india",
+      "state": "Jammu& Kashmir",
+      "postalCode": "585105",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 14
+    }
+  ],
+  "Enrollusers": [
+    {
+      "userName": "user1",
+      "firstName": "user",
+      "lastName": "last",
+      "email": "kiran.nxt19@gmail.com",
+      "country": "Admin",
+      "password": "india",
+      "courseCode": [
+       
+        {
+          "courseCode": "CS102"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value0createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "userName": "users2",
+      "firstName": "user",
+      "lastName": "last2",
+      "email": "kiran.nxt19@gmail.com",
+      "country": "1234",
+      "password": "india",
+      "courseCode": [
+        {
+          "courseCode": "CS100"
+        }
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value0createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    }
+  ],
+  "EnrollusersAdded": [
+    {
+      "userName": "sdfsdscefer",
+      "firstName": "sdvsdfsdgrg",
+      "lastName": "dfvsrgregre",
+      "country": "china",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 3
+    },
+    {
+      "userName": "sdfsdscefer",
+      "firstName": "sdvsdfsdgrg",
+      "lastName": "dfvsrgregre",
+      "country": "china",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    },
+    {
+      "userName": "user3",
+      "firstName": "user",
+      "lastName": "last3",
+      "email": "kiran.nxt19@gmail.com",
+      "country": "Admin",
+      "password": "india",
+      "courseCode": "1223",
+      "createBy": "value.createBy",
+      "createDate": "value0createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 4
+    },
+    {
+      "userName": "users321",
+      "firstName": "user",
+      "lastName": "last2",
+      "email": "kiran.nxt19@gmail.com",
+      "country": "1234",
+      "password": "india",
+      "courseCode": [
+        "14785"
+      ],
+      "createBy": "value.createBy",
+      "createDate": "value0createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 5
+    }
+  ],
+  "Organization": [
+    {
+      "language": "English",
+      "orgCode": "O-1",
+      "orgName": "Minds Nxt",
+      "startDate": "2019-03-02",
+      "endDate": "2019-03-10",
+      "type": "Bussiness Unit",
+      "street": "A1",
+      "city": "Kalaburagi",
+      "country": "india",
+      "state": "Karnataka",
+      "postalCode": "585103",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 1
+    },
+    {
+      "language": "English",
+      "orgCode": "O-1",
+      "orgName": "Nxt",
+      "startDate": "2019-05-01",
+      "endDate": "2019-05-30",
+      "type": "Bussiness Unit",
+      "street": "D1",
+      "city": "Kalaburagi",
+      "country": "india",
+      "state": "Karnataka",
+      "postalCode": "585103",
+      "createBy": "value.createBy",
+      "createDate": "value.createDate",
+      "modifiedBy": "value.modifiedBy",
+      "modifiedDate": "value.modifiedDate",
+      "deletedBy": "value.deletedBy",
+      "deletedDate": "value.deletedDate",
+      "id": 2
+    }
+  ]
+}

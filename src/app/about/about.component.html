@@ -1,0 +1,39 @@
+<h2> Module </h2>
+<p>
+Module in Angular refers to a place where you can group the components,
+ directives, pipes, and services, which are related to the application.<br/><br/>
+
+In case you are developing a website, the header, footer, left, center and the right section
+ become part of a module.<br/><br/>
+
+To define module, we can use the NgModule. When you create a new project using 
+the Angular –cli command, the ngmodule is created in the app.module.ts file by default</p>
+
+<img src="../../assets/img/module.JPG"/>
+<br/>
+<br/>
+<p>
+The NgModule needs to be imported as follows −
+<br/>
+<br/>
+<img src="../../assets/img/module 2.JPG"/><br/>
+It starts with @NgModule and contains an object which has declarations, imports, providers and bootstrap.
+<br/>
+
+Declaration
+It is an array of components created. If any new component gets created, it will be imported first and the reference will be included in declarations as shown below −
+
+
+Import
+It is an array of modules required to be used in the application. It can also be used by the components in the Declaration array. For example, right now in the @NgModule, we see the Browser Module imported. In case your application needs forms, you can include the module with the below code −
+
+
+The import in the @NgModule will be like the following −
+
+
+Providers
+This will include the services created.
+
+<b>Bootstrap</b><br/>
+<br/>
+This includes the main app component for starting the execution.</p>
