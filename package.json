@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "mock:server": "json-server --watch -p 8956 src/app/data/jsonnew.json"
-    },
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.1.2",
@@ -23,7 +23,8 @@
     "@angular/platform-browser-dynamic": "~8.1.2",
     "@angular/router": "~8.1.2",
     "bootstrap": "^4.3.1",
-    "rxjs": "~6.4.0",
+    "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.5.2",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },

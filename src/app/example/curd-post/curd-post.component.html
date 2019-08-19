@@ -1,10 +1,30 @@
+<h4> Post Method using Template Driven Forms</h4>
+<br>
+<br>
 <form #postData="ngForm" (ngSubmit)="onclickSubmit(postData)">
-    <input type="text" name="userName"  placeholder="User Name" ngModel><br/>
+    <table>
+        <tr><td>
+    <label>User Name: </label></td>
+    <td><input type="text" name="userName"  placeholder="User Name" ngModel><br/></td></tr>
+<tr><td>
+    <label>First Name: </label>
+</td>
+<td>  <input type="text" name="firstName" placeholder="First Name" ngModel><br/></td></tr>
+<tr>
+  <td>  <label>Last Name: </label></td>
+  <td>
+    <input type="text" name="lastName" placeholder="Last Name" ngModel><br/></td></tr>
+<tr><td>
+    <label>Email Id : </label></td>
+    <td>
 
-    <input type="text" name="firstName" placeholder="First Name" ngModel><br/>
-    <input type="text" name="lastName" placeholder="Last Name" ngModel><br/>
-    <input type="text" name="email" placeholder="Email id" ngModel><br/>
-    <input type="text" name="password" placeholder="password" ngModel><br/><br/><br/><br/>
+    <input type="text" name="email" placeholder="Email id" ngModel><br/></td></tr>
+<tr><td>
+    <label>Password: </label></td>
+    <td>
+    <input type="password" name="password" placeholder="password" ngModel><br/></td></tr>
+<tr><td></td>
+    <td> <input type="submit" value="post"></td></tr>
 
-    <input type="submit" value="post">
+</table>
     </form>

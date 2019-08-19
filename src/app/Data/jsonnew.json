@@ -1,4 +1,21 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "userName": "Ravi",
+      "firstName": "hjshs",
+      "lastName": "xyz",
+      "password": "123",
+      "email": "abc@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "abc02",
+      "firstName": "abc02",
+      "lastName": "xyz02n",
+      "password": "123456",
+      "email": "abc04@gmail.com",
+      "id": 2
+    }
+  ],
   "gets": []
 }

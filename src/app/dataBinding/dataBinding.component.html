@@ -1,0 +1,81 @@
+<h3>Data Binding</h3> 
+<br>
+<br>
+<p>Data Binding is available right from AngularJS, and all the versions of Angular released later on. 
+    We use curly braces for data binding - <span>{{</span> <span> }} </span>; this process is called interpolation.
+     We have already seen in our previous examples how we declared the value to the variable title and the same is printed in 
+     the browser.
+     <br>
+     <br>
+
+The variable in the <b>app.component.html</b> file is referred as {{title}} and the value of title is initialized in the 
+<b>app.component.ts</b> file and in <b>app.component.html</b>, the value is displayed.
+<br>
+<br>
+Let us now create a dropdown of months in the browser. 
+To do that, we have created an array of months in app.component.ts as follows −
+
+<img src="../../assets/img/data-binding.JPG">
+<br><br>
+The month’s array that is shown above is to be displayed in a dropdown in the browser.
+<br>
+<br>
+We have created the normal select tag with option. In option, we have used the for loop. 
+The for loop is used to iterate over the months’ array,
+ which in turn will create the option tag with the value present in the months.
+<br>
+<br>
+The syntax for in Angular is as follows −
+<br><br>
+
+<img src="../../assets//img/data-binding 2.JPG">
+
+<br>
+<br>
+and to get the value of months we are displaying it in −
+
+<br>
+<br>
+<img src="../../assets//img//data-binding 3.JPG">
+
+<br>
+<br>
+
+The two curly brackets help with data binding. 
+You declare the variables in your app.component.ts file and the same will be replaced using the curly brackets.
+
+Following is the output of the above month’s array in the browser −
+
+<br>
+<br>
+<img src="../../assets//img/data-binding 4.JPG">
+<br>
+<br>
+
+The variable that is set in the <b>app.component.ts</b> can be binded inside the <b>app.component.html</b>
+ using the curly brackets. For example: <span>{{</span><span>}}</span>.
+<br>
+<br>
+
+Let us now display the data in the browser based on condition. Here, 
+we have added a variable and assigned the value as true. Using the if statement, 
+we can hide/show the content to be displayed.
+<br>
+<br>
+
+<b> Example </b>
+<br>
+<br>
+<img src="../../assets/img/data-binding 5.JPG">
+
+<br>
+<br>
+
+<img src="../../assets/img/data-binding 6.JPG">
+
+<br>
+<br>
+
+<img src="../../assets/img/data-binding 7.JPG">
+
+</p>

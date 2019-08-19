@@ -1,0 +1,52 @@
+<h1>Components </h1> 
+
+
+
+<p> Components are basically classes that interact with the .html file of the component,
+     which gets displayed on the browser. 
+    </p>
+
+    <p>
+            The file structure has the app component and it consists of the following files −
+        </p>
+        <li>  app.component.css </li>
+         <li>   app.component.html</li>
+         <li>       app.component.spec.ts </li>
+            <li> app.component.ts </li>
+            <li>     app.module.ts </li>
+    <br/>
+            <p> And if you have selected angular routing during your project setup,
+                 files related to routing will also get added and the files are as follows −
+</p>
+                   <li> app-routing.module.ts </li>
+
+<br/>
+                   <p> The declarations include the AppComponent variable, which we have already imported. This becomes the parent component.
+
+                        Now, angular-cli has a command to create your own component. However, the app component which is created by default will always remain the parent and the next components created will form the child components.
+                        
+                        Let us now run the command to create the component with the below line of code − </p>
+                        
+                        <p><b> ng g component new-cmp </b></p>
+
+                        <p> When you run the above command in the command line, you will receive the following output −
+                            </p>
+
+<p>
+                                C:\projectA7\angular7-app>ng g component new-cmp <br/>
+                                CREATE src/app/new-cmp/new-cmp.component.html (26 bytes) <br/>
+                                CREATE src/app/new-cmp/new-cmp.component.spec.ts (629 bytes) <br/>
+                                CREATE src/app/new-cmp/new-cmp.component.ts (272 bytes) <br/>
+                                CREATE src/app/new-cmp/new-cmp.component.css (0 bytes) <br/>
+                                UPDATE src/app/app.module.ts (477 bytes)<br/>
+                                </p>
+                                <p>
+                                Now, if we go and check the file structure, we will get the new-cmp new folder created under the src/app folder.
+                                </p>
+                                <p>The following files are created in the new-cmp folder −
+                                
+
+                                new-cmp.component.css − css file for the new component is created.<br/>
+                                new-cmp.component.html − html file is created.<br/>
+                                new-cmp.component.spec.ts − this can be used for unit testing.<br/>
+                                new-cmp.component.ts − here, we can define the module, properties, etc.</p>

@@ -13,6 +13,7 @@ import {MatSliderModule} from '@angular/material/slider';
 import { MatAutocompleteModule } from '@angular/material/autocomplete';
 import {MatInputModule} from '@angular/material/input';
 
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 // import { LayoutsComponent } from './layouts/layouts.component';
 // import { AppHeaderComponent } from './layouts/app-header/app-header.component';
@@ -28,6 +29,7 @@ import {MatInputModule} from '@angular/material/input';
     AppComponent,
     // ExDirectivesComponent,
     TempleteDemoComponent,
+    
    
     
     
@@ -51,7 +53,8 @@ import {MatInputModule} from '@angular/material/input';
     FormsModule,
     MatSliderModule,
     MatAutocompleteModule,
-    MatInputModule
+    MatInputModule,
+    BrowserAnimationsModule
   ],
   providers: [MyserviceService],
   bootstrap: [AppComponent]

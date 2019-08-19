@@ -1,8 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { HomeComponent } from './home/home.component';
-import { AboutComponent } from './about/about.component';
-import { ContactComponent } from './contact/contact.component';
+import { ModuleComponent } from './module/module.component';
 import { ExPipesComponent } from './ex-pipes/ex-pipes.component';
 import { TemplatestagsComponent } from './templatestags/templatestags.component';
 import { RouterDemoComponent } from './router-demo/router-demo.component';
@@ -19,6 +17,7 @@ import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import { HttpClientModule } from '@angular/common/http';
 import {MatInputModule} from '@angular/material/input';
 
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
 
 // import { AppComponent } from './app.component';
@@ -30,10 +29,16 @@ import { CrudComponent } from './example/crud/crud.component';
 import { CurdPostComponent } from './example/curd-post/curd-post.component';
 import { CurdGetComponent } from './example/curd-get/curd-get.component';
 import { CurdPutComponent } from './example/curd-put/curd-put.component';
+import { EventComponent } from './event/event.component';
+import { LoginComponent } from './login/login.component';
+import { ComponentsComponent } from './Components/Components.component';
+import { DataBindingComponent } from './dataBinding/dataBinding.component';
 
 
 
 const routes: Routes = [
+  { path: '', component:LoginComponent},
+  { path: 'Login', component:LoginComponent},
  { path: '', redirectTo: 'Home', pathMatch: 'full'},
   {
   "path":"",
@@ -45,7 +50,7 @@ const routes: Routes = [
 
   },{
   path:'Components',
-  component:HomeComponent
+  component:ComponentsComponent
 },
 {
   path:'directives',
@@ -53,11 +58,15 @@ const routes: Routes = [
 },
 {
   path:'Modules',
-  component:AboutComponent
+  component:ModuleComponent
 },
 {
   path:'Data-Binding',
-  component:ContactComponent
+  component:DataBindingComponent
+},
+{
+  path:'Event-Binding',
+  component:EventComponent
 },
 {
   path:'Pipes-Ex',
@@ -104,7 +113,7 @@ const routes: Routes = [
   component:CurdPostComponent
 },
 {
-  path:'curd-put',
+  path:'curd-put/:id',
   component:CurdPutComponent
 },
 {
@@ -117,9 +126,9 @@ const routes: Routes = [
 
 @NgModule({
   declarations:[
-    HomeComponent,
-    AboutComponent,
-    ContactComponent,
+    ComponentsComponent,
+    DataBindingComponent,
+    ModuleComponent,
     IndexComponent,
     ExDirectivesComponent,
     ExPipesComponent,
@@ -134,7 +143,9 @@ const routes: Routes = [
     CrudComponent,
     CurdPostComponent,
     CurdGetComponent,
-    CurdPutComponent
+    CurdPutComponent,
+    EventComponent,
+    LoginComponent,
     
     // AppComponent
   ],
@@ -145,7 +156,8 @@ const routes: Routes = [
     MatSliderModule,
     MatAutocompleteModule,
     HttpClientModule,
-    MatInputModule
+    MatInputModule,
+    BrowserAnimationsModule
     
   ],
   exports: [RouterModule]

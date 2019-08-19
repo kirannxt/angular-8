@@ -1,1 +1,24 @@
-<p>curd-put works!</p>
+<div> 
+    <form [formGroup] = "formdata" (ngSubmit) = "onClickSubmit(formdata)" > 
+       <input type = "text" class = "fortextbox" name = "userName" placeholder = "userName" 
+          formControlName = "userName"> 
+       <br/> 
+       <input type = "text" class = "fortextbox" name = "firstName" placeholder = "firstName" 
+          formControlName = "firstName"> 
+       <br/> 
+       <input type = "text" class = "fortextbox" name = "lastName" placeholder = "lastName" 
+          formControlName = "lastName"> 
+       <br/> 
+       
+       <input type = "text" class = "fortextbox" name = "email" placeholder = "email" 
+          formControlName = "email"> 
+       <br/> 
+       
+       <input type = "password" class = "fortextbox" name = "password" 
+          placeholder = "password" formControlName = "password"> 
+       <br/>
+       <br><br>
+       <input type = "submit" class = "forsubmit" value = "Update"> 
+    </form>
+ </div> 
+ 

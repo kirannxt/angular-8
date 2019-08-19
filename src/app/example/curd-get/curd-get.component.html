@@ -18,7 +18,7 @@
                             <td>{{ userD.email }} </td>
                             <td>{{ userD.password }} </td>
                            <td>
-                            <button type="button" value="edit"><a [routerLink]="['/edit-Course', userD.id]">edit</a></button>
+                            <button type="button" value="edit"><a [routerLink]="['/curd-put', userD.id]">edit</a></button>
                             <button type="button" value="delete" ><a (click)="onDelete(userD.id)" style="color:lightseagreen" >delete</a> </button> 
 
                                     
