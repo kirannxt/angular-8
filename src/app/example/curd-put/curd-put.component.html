@@ -1,24 +1,53 @@
+
+<h3> Edit Form Data Using Mock Servers </h3> 
+
 <div> 
     <form [formGroup] = "formdata" (ngSubmit) = "onClickSubmit(formdata)" > 
+        <table>
+            <tr>
+                <td>
+            <label>User Name </label>
+        </td>
+    <td>
        <input type = "text" class = "fortextbox" name = "userName" placeholder = "userName" 
           formControlName = "userName"> 
-       <br/> 
+        </td>
+        </tr>
+    <tr>
+        <td><label>First Name</label></td>
+    <td>
        <input type = "text" class = "fortextbox" name = "firstName" placeholder = "firstName" 
           formControlName = "firstName"> 
-       <br/> 
-       <input type = "text" class = "fortextbox" name = "lastName" placeholder = "lastName" 
+        </td>
+        </tr>
+<tr>
+    <td><label> Last Name</label></td>
+<td> <input type = "text" class = "fortextbox" name = "lastName" placeholder = "lastName" 
           formControlName = "lastName"> 
-       <br/> 
-       
+        </td>
+        </tr>
+<tr>
+    <td> <label> Email </label> </td>
+    <td>
        <input type = "text" class = "fortextbox" name = "email" placeholder = "email" 
           formControlName = "email"> 
-       <br/> 
-       
+        </td>
+        </tr>
+<tr>
+    <td><label> password </label></td>
+    <td>
        <input type = "password" class = "fortextbox" name = "password" 
           placeholder = "password" formControlName = "password"> 
-       <br/>
-       <br><br>
+        </td>
+    </tr>
+    <tr></tr>
+<tr>
+    <td></td>
+    <td>
        <input type = "submit" class = "forsubmit" value = "Update"> 
+    </td>
+    </tr>
+    </table>
     </form>
  </div> 
  
