@@ -13,7 +13,7 @@ import "rxjs/Rx"
 export class MyserviceService {
 
   // private apiurl = "http://jsonplaceholder.typicode.com/users";
-  private apiurl = "http://localhost:8956/posts";
+  private apiurl = "http://localhost:8956/gets";
   constructor(private http: HttpClient) { }
   
 
@@ -37,7 +37,7 @@ export class MyserviceService {
   }
 
   getdelete(id:number){
-    return this.http.delete(`http://localhost:8956/posts/${id}`);
+    return this.http.delete(`http://localhost:8956/gets/${id}`);
   }
 
 
@@ -47,7 +47,7 @@ export class MyserviceService {
  
   getPut(id:number) {
 
-    return this.http.get(`http://localhost:8956/posts/${id}`)//, options)
+    return this.http.get(`http://localhost:8956/gets/${id}`)//, options)
         .map(
           (response: Curd) => {
           return response
@@ -63,7 +63,7 @@ export class MyserviceService {
 
 
   putdata(id:number,datas:Curd){
-    return this.http.put(`http://localhost:8956/posts/${id}`,datas); 
+    return this.http.put(`http://localhost:8956/gets/${id}`,datas); 
 
   }
   }

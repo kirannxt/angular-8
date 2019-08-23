@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "userName": "Ravi",
-      "firstName": "hjshs",
-      "lastName": "xyz",
-      "password": "123",
-      "email": "abc@gmail.com",
+      "userName": "sham",
+      "firstName": "Ture",
+      "lastName": "T",
+      "password": "1234",
+      "email": "sham@gmail.com",
       "id": 1
     },
     {
@@ -17,5 +17,14 @@
       "id": 2
     }
   ],
-  "gets": []
+  "gets": [
+    {
+      "userName": "sham",
+      "firstName": "Ture",
+      "lastName": "T",
+      "password": "1234",
+      "email": "sham@gmail.com",
+      "id": 1
+    }
+  ]
 }
